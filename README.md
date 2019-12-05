@@ -14,6 +14,43 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 3.
 
+# DataCamp
+
+- pandas Foundations
+	3. Time series in pandas
+	4. Case Study - Sunlight in Austin
+		Few exercices only
+
+- Manipulating Time Series Data in Python
+	1. Working with Time Series in Pandas
+
+- Visualizing Time Series Data in Python
+	1. Introduction 
+		All exercices
+	2. Summary Statistics and Diagnostics	
+		Find missing values
+		Handle missing values
+	3. Seasonality, Trend and Noise
+		Time series decomposition
+		Plot individual components	
+		Visualize the airline dataset
+		Time series decomposition of the airline dataset
+
+- Time Series Analysis in Python
+	1. Correlation and Autocorrelation
+		A Popular Strategy Using Autocorrelation
+		Are Interest Rates Autocorrelated?
+	2. Some Simple Time Series (white noise, random walk and stationarity)
+		All exercices
+	3. Autoregressive (AR) Models
+
+
+- Forecasting Using ARIMA Models in Python
+	1. ARMA Models
+	2. Fitting the Future
+	3. The Best of the Best Models
+	4. Seasonal ARIMA Models
+
 # Project
 
 TBA
