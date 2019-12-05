@@ -14,7 +14,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 3.
 
-# DataCamp
+# DataCamp Assignments
 
 - pandas Foundations
 	1. Time series in pandas
