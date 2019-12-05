@@ -18,30 +18,28 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - pandas Foundations
 	1. Time series in pandas
-	2. Case Study - Sunlight in Austin
-		Few exercices only
 
 - Manipulating Time Series Data in Python
 	1. Working with Time Series in Pandas
 
 - Visualizing Time Series Data in Python
 	1. Introduction 
-		All exercices
+		1. All exercices
 	2. Summary Statistics and Diagnostics	
-		Find missing values
-		Handle missing values
+		1. Find missing values
+		2. Handle missing values
 	3. Seasonality, Trend and Noise
-		Time series decomposition
-		Plot individual components	
-		Visualize the airline dataset
-		Time series decomposition of the airline dataset
+		1. Time series decomposition
+		2. Plot individual components	
+		3. Visualize the airline dataset
+		4. Time series decomposition of the airline dataset
 
 - Time Series Analysis in Python
 	1. Correlation and Autocorrelation
-		A Popular Strategy Using Autocorrelation
-		Are Interest Rates Autocorrelated?
-	2. Some Simple Time Series (white noise, random walk and stationarity)
-		All exercices
+		1. A Popular Strategy Using Autocorrelation
+		2. Are Interest Rates Autocorrelated?
+	2. Some Simple Time Series
+		1. All exercices
 	3. Autoregressive (AR) Models
 
 
