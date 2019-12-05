@@ -17,8 +17,8 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 # DataCamp
 
 - pandas Foundations
-	3. Time series in pandas
-	4. Case Study - Sunlight in Austin
+	1. Time series in pandas
+	2. Case Study - Sunlight in Austin
 		Few exercices only
 
 - Manipulating Time Series Data in Python
