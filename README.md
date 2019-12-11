@@ -70,14 +70,14 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 		1. All exercices 
 
 - Introduction to Deep Learning with Keras
-	1. Improving Your Model Performance
+	- Improving Your Model Performance
 
 
 - Winning a Kaggle Competition in Python
-	1. Kaggle competitions process
-	2. Dive into the Competition
-	3. Feature Engineering
-	4. Modeling
+	- Kaggle competitions process
+	- Dive into the Competition
+	- Feature Engineering
+	- Modeling
 
 ### Optional
 - Hyperparameter Tuning in Python
