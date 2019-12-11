@@ -8,7 +8,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 # Content
 
-- Week 1. [Introduction to statistical time series analysis and forecasting](./slides/main.pdf)
+- Week 1. [Introduction to statistical time series analysis and forecasting](./slides/week1.pdf)
 
 - Week 2. 
 
@@ -16,6 +16,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 # DataCamp Assignments
 
+## Week 1 Assignments (Due date: 11 December, 23:55pm)
 - pandas Foundations
 	1. Time series in pandas
 
@@ -48,6 +49,39 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 	2. Fitting the Future
 	3. The Best of the Best Models
 	4. Seasonal ARIMA Models
+
+## Week 2 Assignments (Due date: 18 December, 23:55pm)
+
+- Supervised Learning with scikit-learn
+	- Regression
+	- Fine-tuning your model
+		1. Hyperparameter tuning
+		2. Holdout-set for final evaluation
+
+- Machine Learning for Time Series Data in Python
+	- Time series and Machine Learning Primer
+		1. Fitting a simple model: regression
+		2. Predicting using a regression model
+
+	- Predicting Time Series Data
+		1. All exercices
+
+	- Validating and Inspecting Time Series Models
+		1. All exercices 
+
+- Introduction to Deep Learning with Keras
+	1. Improving Your Model Performance
+
+
+- Winning a Kaggle Competition in Python
+	1. Kaggle competitions process
+	2. Dive into the Competition
+	3. Feature Engineering
+	4. Modeling
+
+### Optional
+- Hyperparameter Tuning in Python
+
 
 # Project
 
