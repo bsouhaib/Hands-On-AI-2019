@@ -55,7 +55,10 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 ### Notebooks
 
 1. Run [1_data_checking.ipynb](./exercices/1_data_checking.ipynb)
-2. 
+2. Do exercice in [2_arima.ipynb](./exercices/2_arima.ipynb)
+3. Run and understand the code in [3_MLP_unioutput.ipynb](./exercices/3_MLP_unioutput.ipynb) and [4_MLP_multioutput.ipynb](./exercices/2_arima.ipynb)
+4. Do exercice in [5_ML_direct.ipynb](./exercices/5_ML_direct.ipynb)
+
 
 
 ### DataCamp
