@@ -52,13 +52,13 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 ## Week 2 Assignments (Due date: 18 December, 23:55pm)
 
-# Notebooks
+### Notebooks
 
-1. Run (1_data_checking.ipynb)[./exercices/1_data_checking.ipynb]
+1. Run [1_data_checking.ipynb](./exercices/1_data_checking.ipynb)
 2. 
 
 
-# DataCamp
+### DataCamp
 
 - Supervised Learning with scikit-learn
 	- Regression
