@@ -63,6 +63,20 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 ### DataCamp
 
+
+
+- Introduction to Deep Learning with Keras
+	- Improving Your Model Performance
+
+
+- Winning a Kaggle Competition in Python
+	- Kaggle competitions process
+	- Dive into the Competition
+	- Feature Engineering
+	- Modeling
+
+### Optional
+
 - Supervised Learning with scikit-learn
 	- Regression
 	- Fine-tuning your model
@@ -79,18 +93,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 	- Validating and Inspecting Time Series Models
 		1. All exercices 
-
-- Introduction to Deep Learning with Keras
-	- Improving Your Model Performance
-
-
-- Winning a Kaggle Competition in Python
-	- Kaggle competitions process
-	- Dive into the Competition
-	- Feature Engineering
-	- Modeling
-
-### Optional
+		
 - Hyperparameter Tuning in Python
 - Machine Learning with Tree-Based Models in Python
 
