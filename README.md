@@ -12,7 +12,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 - Week 2. [From time series forecasting to regression](./slides/week2.pdf)
 
-- Week 3.
+- Week 3. [Deep learning for time series forecasting](./slides/week3.pdf)
 
 # DataCamp Assignments
 
@@ -54,7 +54,7 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 
 ### Notebooks
 
-1. Run [1_data_checking.ipynb](./exercices/1_data_checking.ipynb)
+1. Run the code in [1_data_checking.ipynb](./exercices/1_data_checking.ipynb)
 2. Do exercice in [2_arima.ipynb](./exercices/2_arima.ipynb)
 3. Run and understand the code in [3_MLP_unioutput.ipynb](./exercices/3_MLP_unioutput.ipynb) and [4_MLP_multioutput.ipynb](./exercices/4_MLP_multioutput.ipynb)
 4. Do exercice in [5_ML_direct.ipynb](./exercices/5_ML_direct.ipynb)
@@ -97,10 +97,19 @@ This is a repository to organize the teaching material for [Hands on AI, Third C
 - Hyperparameter Tuning in Python
 - Machine Learning with Tree-Based Models in Python
 
+## Week 3 Exercices
+
+### Notebooks
+
+1. Run and understand the code in [6_CNN_dilated.ipynb](./exercices/6_CNN_dilated.ipynb)
+2. Run and understand the code in [7_RNN.ipynb](./exercices/7_RNN.ipynb)
+3. Run and understand the code in [8_RNN_encoder_decoder.ipynb](./exercices/8_RNN_encoder_decoder.ipynb)
+
+
 
 # Project
 
-TBA
+[Link to Kaggle page](https://www.kaggle.com/c/hands-on-ai-umons-2019/overview)
 
 # Acknowledgment
 
